@@ -1,0 +1,1153 @@
+[
+    {
+        "value":15,
+        "name":"Arica y Parinacota",
+        "comunas":[
+            {
+                "value":"15101",
+                "name": "Arica"
+            },{
+                "value":"15102",
+                "name": "Camarones"
+            },{
+                "value":"15201",
+                "name": "Putre"
+            },{
+                "value":"15202",
+                "name": "General Lagos"
+            }
+        ]
+    },
+    {
+        "value":1,
+        "name":"Tarapacá",
+        "comunas":[
+            {
+                "value":"01101",
+                "name": "Iquique"
+            },{
+                "value":"01107",
+                "name": "Alto Hospicio"
+            },{
+                "value":"01401",
+                "name": "Pozo Almonte"
+            },{
+                "value":"01402",
+                "name": "Camiña"
+            },{
+                "value":"01403",
+                "name": "Colchane"
+            },{
+                "value":"01404",
+                "name": "Huara"
+            },{
+                "value":"01405",
+                "name": "Pica"
+            }
+        ]
+    },
+    {
+        "value":2,
+        "name":"Antofagasta",
+        "comunas":[
+            {
+                "value":"02101",
+                "name": "Antofagasta"
+            },{
+                "value":"02102",
+                "name": "Mejillones"
+            },{
+                "value":"02103",
+                "name": "Sierra Gorda"
+            },{
+                "value":"02104",
+                "name": "Taltal"
+            },{
+                "value":"02201",
+                "name": "Calama"
+            },{
+                "value":"02202",
+                "name": "Ollagüe"
+            },{
+                "value":"02203",
+                "name": "San Pedro de Atacama"
+            },{
+                "value":"02301",
+                "name": "Tocopilla"
+            },{
+                "value":"02302",
+                "name": "María Elena"
+            }
+        ]
+    },
+    {
+        "value":3,
+        "name":"Atacama",
+        "comunas":[
+            {
+                "value":"03101",
+                "name":"Copiapó"
+            },{
+                "value":"03102",
+                "name":"Caldera"
+            },{
+                "value":"03103",
+                "name":"Tierra Amarilla"
+            },{
+                "value":"03201",
+                "name":"Chañaral"
+            },{
+                "value":"03202",
+                "name":"Diego de Almagro"
+            },{
+                "value":"03301",
+                "name":"Vallenar"
+            },{
+                "value":"03302",
+                "name":"Alto del Carmen"
+            },{
+                "value":"03303",
+                "name":"Freirina"
+            },{
+                "value":"03101",
+                "name":"Huasco"
+            }
+        ]
+    },
+    {
+        "value":4,
+        "name":"Coquimbo",
+        "comunas":[
+            {
+                "value":"04101",
+                "name":"La Serena"
+            },{
+                "value":"04102",
+                "name":"Coquimbo"
+            },{
+                "value":"04103",
+                "name":"Andacollo"
+            },{
+                "value":"04104",
+                "name":"La Higuera"
+            },{
+                "value":"04105",
+                "name":"Paihuano"
+            },{
+                "value":"04106",
+                "name":"Vicuña"
+            },{
+                "value":"04201",
+                "name":"Illapel"
+            },{
+                "value":"04202",
+                "name":"Canela"
+            },{
+                "value":"04203",
+                "name":"Los Vilos"
+            },{
+                "value":"04204",
+                "name":"Salamanca"
+            },{
+                "value":"04301",
+                "name":"Ovalle"
+            },{
+                "value":"04302",
+                "name":"Combarbalá"
+            },{
+                "value":"04303",
+                "name":"Monte Patria"
+            },{
+                "value":"04304",
+                "name":"Punitaqui"
+            },{
+                "value":"04305",
+                "name":"Río Hurtado"
+            }
+        ]
+    },
+    {
+        "value":5,
+        "name":"Valparaíso",
+        "comunas":[
+            {
+                "value":"05101",
+                "name": "Valparaíso"
+            },{
+                "value":"05102",
+                "name": "Casablanca"
+            },{
+                "value":"05103",
+                "name": "Concón"
+            },{
+                "value":"05104",
+                "name": "Juan Fernández"
+            },{
+                "value":"05105",
+                "name": "Puchuncaví"
+            },{
+                "value":"05107",
+                "name": "Quintero"
+            },{
+                "value":"05109",
+                "name": "Viña del Mar"
+            }            ,{
+                "value":"05201",
+                "name": "Isla de Pascua"
+            },{
+                "value":"05301",
+                "name": "Los Andes"
+            },{
+                "value":"05302",
+                "name": "Calle Larga"
+            },{
+                "value":"05303",
+                "name": "Rinconada"
+            },{
+                "value":"05304",
+                "name": "San Esteban"
+            },{
+                "value":"05401",
+                "name": "La Ligua"
+            },{
+                "value":"05402",
+                "name": "Cabildo"
+            },{
+                "value":"05403",
+                "name": "Papudo"
+            },{
+                "value":"05404",
+                "name": "Petorca"
+            },{
+                "value":"05405",
+                "name": "Zapallar"
+            },{
+                "value":"05501",
+                "name": "Quillota"
+            },{
+                "value":"05502",
+                "name": "La Calera"
+            },{
+                "value":"05503",
+                "name": "Hijuelas"
+            },{
+                "value":"05504",
+                "name": "La Cruz"
+            },{
+                "value":"05506",
+                "name": "Nogales"
+            },{
+                "value":"05601",
+                "name": "San Antonio"
+            },{
+                "value":"05602",
+                "name": "Algarrobo"
+            },{
+                "value":"05603",
+                "name": "Cartagena"
+            },{
+                "value":"05604",
+                "name": "El Quisco"
+            },{
+                "value":"05605",
+                "name": "El Tabo"
+            },{
+                "value":"05606",
+                "name": "Santo Domingo"
+            },{
+                "value":"05701",
+                "name": "San Felipe"
+            },{
+                "value":"05702",
+                "name": "Catemu"
+            },{
+                "value":"05703",
+                "name": "Llaillay"
+            },{
+                "value":"05704",
+                "name": "Panquehue"
+            },{
+                "value":"05705",
+                "name": "Putaendo"
+            },{
+                "value":"05706",
+                "name": "Santa María"
+            },{
+                "value":"05801",
+                "name": "Quilpue"
+            },{
+                "value":"05802",
+                "name": "Limache"
+            },{
+                "value":"05803",
+                "name": "Olmué"
+            },{
+                "value":"05804",
+                "name": "Villa Alemana"
+            }
+        ]
+    },
+    {
+        "value":13,
+        "name":"Metropolitana",
+        "comunas":[
+            {
+                "value":"13101",
+                "name":"Santiago"
+            },{
+                "value":"13102",
+                "name":"Cerrillos"
+            },{
+                "value":"13103",
+                "name":"Cerro Navia"
+            },{
+                "value":"13104",
+                "name":"Conchalí"
+            },{
+                "value":"13105",
+                "name":"El Bosque"
+            },{
+                "value":"13106",
+                "name":"Estación Central"
+            },{
+                "value":"13107",
+                "name":"Huechuraba"
+            },{
+                "value":"13108",
+                "name":"Independencia"
+            },{
+                "value":"13109",
+                "name":"La Cisterna"
+            },{
+                "value":"13110",
+                "name":"La Florida"
+            },{
+                "value":"13111",
+                "name":"La Granja"
+            },{
+                "value":"13112",
+                "name":"La Pintana"
+            },{
+                "value":"13113",
+                "name":"La Reina"
+            },{
+                "value":"13114",
+                "name":"Las Condes"
+            },{
+                "value":"13115",
+                "name":"Lo Barnechea"
+            },{
+                "value":"13116",
+                "name":"Lo Espejo"
+            },{
+                "value":"13117",
+                "name":"Lo Prado"
+            },{
+                "value":"13118",
+                "name":"Macul"
+            },{
+                "value":"13119",
+                "name":"Maipú"
+            },{
+                "value":"13120",
+                "name":"Ñuñoa"
+            },{
+                "value":"13121",
+                "name":"Pedro Aguirre Cerda"
+            },{
+                "value":"13122",
+                "name":"Peñalolen"
+            },{
+                "value":"13123",
+                "name":"Providencia"
+            },{
+                "value":"13124",
+                "name":"Pudahuel"
+            },{
+                "value":"13125",
+                "name":"Quilcura"
+            },{
+                "value":"13126",
+                "name":"Quinta Normal"
+            },{
+                "value":"13127",
+                "name":"Recoleta"
+            },{
+                "value":"13128",
+                "name":"Renca"
+            },{
+                "value":"13129",
+                "name":"San Joaquín"
+            },{
+                "value":"13130",
+                "name":"San Miguel"
+            },{
+                "value":"13131",
+                "name":"San Ramón"
+            },{
+                "value":"13132",
+                "name":"Vitcarua"
+            },{
+                "value":"13201",
+                "name":"Puente Alto"
+            },{
+                "value":"13202",
+                "name":"Pirque"
+            },{
+                "value":"13203",
+                "name":"San José de Maipo"
+            },{
+                "value":"13301",
+                "name":"Colina"
+            },{
+                "value":"13302",
+                "name":"Lampa"
+            },{
+                "value":"13303",
+                "name":"Til Til"
+            },{
+                "value":"13401",
+                "name":"San Bernardo"
+            },{
+                "value":"13402",
+                "name":"Buin"
+            },{
+                "value":"13403",
+                "name":"Calera de Tango"
+            },{
+                "value":"13404",
+                "name":"Paine"
+            },{
+                "value":"13501",
+                "name":"Melipilla"
+            },{
+                "value":"13502",
+                "name":"Alhué"
+            },{
+                "value":"13503",
+                "name":"Curacaví"
+            },{
+                "value":"13504",
+                "name":"María Pinto"
+            },{
+                "value":"13505",
+                "name":"San Pedro"
+            },{
+                "value":"13601",
+                "name":"Talagante"
+            },{
+                "value":"13602",
+                "name":"El Monte"
+            },{
+                "value":"13603",
+                "name":"Isla de Maipo"
+            },{
+                "value":"13604",
+                "name":"Padre Hurtado"
+            },{
+                "value":"13605",
+                "name":"Peñaflor"
+            }
+            
+        ]
+    },
+    {
+        "value":6,
+        "name":"Libertador General Bdo. O'Higgins",
+        "comunas":[
+            {
+                "value":"06101",
+                "name":"Rancagua"
+            },{
+                "value":"06102",
+                "name":"Codegua"
+            },{
+                "value":"06103",
+                "name":"Coinco"
+            },{
+                "value":"06104",
+                "name":"Coltauco"
+            },{
+                "value":"06105",
+                "name":"Doñihue"
+            },{
+                "value":"06106",
+                "name":"Graneros"
+            },{
+                "value":"06107",
+                "name":"Las Cabras"
+            },{
+                "value":"06108",
+                "name":"Machalí"
+            },{
+                "value":"06109",
+                "name":"Malloa"
+            },{
+                "value":"06110",
+                "name":"Mostazal"
+            },{
+                "value":"06111",
+                "name":"Olivar"
+            },{
+                "value":"06112",
+                "name":"Peumo"
+            },{
+                "value":"06113",
+                "name":"Pichidegua"
+            },{
+                "value":"06114",
+                "name":"Quinta de Tilcoco"
+            },{
+                "value":"06115",
+                "name":"Rengo"
+            },{
+                "value":"06116",
+                "name":"Requínoa"
+            },{
+                "value":"06117",
+                "name":"San Vicente"
+            },{
+                "value":"06201",
+                "name":"Pichilemu"
+            },{
+                "value":"06202",
+                "name":"La Estrella"
+            },{
+                "value":"06203",
+                "name":"Litueche"
+            },{
+                "value":"06204",
+                "name":"Marchihue"
+            },{
+                "value":"06205",
+                "name":"Navidad"
+            },{
+                "value":"06206",
+                "name":"Paredones"
+            },{
+                "value":"06301",
+                "name":"San Fernando"
+            },{
+                "value":"06302",
+                "name":"Chépica"
+            },{
+                "value":"06303",
+                "name":"Chimbarongo"
+            },{
+                "value":"06304",
+                "name":"Lolol"
+            },{
+                "value":"06305",
+                "name":"Nancagua"
+            },{
+                "value":"06306",
+                "name":"Palmilla"
+            },{
+                "value":"06307",
+                "name":"Peralillo"
+            },{
+                "value":"06308",
+                "name":"Placilla"
+            },{
+                "value":"06309",
+                "name":"Pumanque"
+            },{
+                "value":"06310",
+                "name":"Santa Cruz"
+            }
+        ]
+    },
+    {
+        "value":7,
+        "name":"Maule",
+        "comunas":[
+            {
+                "value":"07101",
+                "name":"Talca"
+            },{
+                "value":"07102",
+                "name":"Constitución"
+            },{
+                "value":"07103",
+                "name":"Curepto"
+            },{
+                "value":"07104",
+                "name":"Empedrado"
+            },{
+                "value":"07105",
+                "name":"Maule"
+            },{
+                "value":"07106",
+                "name":"Pelarco"
+            },{
+                "value":"07107",
+                "name":"Pencahue"
+            },{
+                "value":"07108",
+                "name":"Río Claro"
+            },{
+                "value":"07109",
+                "name":"San Clemente"
+            },{
+                "value":"07110",
+                "name":"San Rafael"
+            },{
+                "value":"07201",
+                "name":"Cauquenes"
+            },{
+                "value":"07202",
+                "name":"Chanco"
+            },{
+                "value":"07203",
+                "name":"Pelluhue"
+            },{
+                "value":"07301",
+                "name":"Curicó"
+            },{
+                "value":"07302",
+                "name":"Hualañe"
+            },{
+                "value":"07303",
+                "name":"Licantén"
+            },{
+                "value":"07304",
+                "name":"Molina"
+            },{
+                "value":"07305",
+                "name":"Rauco"
+            },{
+                "value":"07306",
+                "name":"Romeral"
+            },{
+                "value":"07307",
+                "name":"Sagrada Familia"
+            },{
+                "value":"07308",
+                "name":"Teno"
+            },{
+                "value":"07309",
+                "name":"Vichuquén"
+            },{
+                "value":"07401",
+                "name":"Linares"
+            },{
+                "value":"07402",
+                "name":"Colbún"
+            },{
+                "value":"07403",
+                "name":"Longaví"
+            },{
+                "value":"07404",
+                "name":"Parral"
+            },{
+                "value":"07405",
+                "name":"Retiro"
+            },{
+                "value":"07406",
+                "name":"San Javier"
+            },{
+                "value":"07407",
+                "name":"Villa Alegre"
+            },{
+                "value":"07408",
+                "name":"Yerbas Buenas"
+            }
+        ]
+    },
+    {
+        "value":84,
+        "name":"Ñuble",
+        "comunas":[
+            {
+                "value":"08416",
+                "name":"San Carlos"
+            },{
+                "value":"08417",
+                "name":"San Fabián"
+            },{
+                "value":"08405",
+                "name":"Coihueco"
+            },{
+                "value":"08409",
+                "name":"Ñiquén"
+            },{
+                "value":"08419",
+                "name":"San Nicolás"
+            },{
+                "value":"08402",
+                "name":"Bulnes"
+            },{
+                "value":"08401",
+                "name":"Chillán"
+            },{
+                "value":"08406",
+                "name":"Chillán Viejo"
+            },{
+                "value":"08407",
+                "name":"El Carmen"
+            },{
+                "value":"08410",
+                "name":"Pemuco"
+            },{
+                "value":"08411",
+                "name":"Pinto"
+            },{
+                "value":"08413",
+                "name":"Quillón"
+            },{
+                "value":"08418",
+                "name":"San Ignacio"
+            },{
+                "value":"08421",
+                "name":"Yungay"
+            },{
+                "value":"08414",
+                "name":"Quirihue"
+            },{
+                "value":"08403",
+                "name":"Cobquecura"
+            },{
+                "value":"08404",
+                "name":"Coelemu"
+            },{
+                "value":"08408",
+                "name":"Ninhue"
+            },{
+                "value":"08412",
+                "name":"Portezuelo"
+            },{
+                "value":"08415",
+                "name":"Ránquil"
+            },{
+                "value":"08420",
+                "name":"Treguaco"
+            }
+        ]
+    },
+    {
+        "value":8,
+        "name":"Del BioBío",
+        "comunas":[
+            {
+                "value":"08101",
+                "name":"Concepción"
+            },{
+                "value":"08102",
+                "name":"Coronel"
+            },{
+                "value":"08103",
+                "name":"Chiguayante"
+            },{
+                "value":"08104",
+                "name":"Florida"
+            },{
+                "value":"08105",
+                "name":"Hualqui"
+            },{
+                "value":"08106",
+                "name":"Lota"
+            },{
+                "value":"08107",
+                "name":"Penco"
+            },{
+                "value":"08108",
+                "name":"San Pedro de La Paz"
+            },{
+                "value":"08109",
+                "name":"Santa Juana"
+            },{
+                "value":"08110",
+                "name":"Talcahuano"
+            },{
+                "value":"08111",
+                "name":"Tomé"
+            },{
+                "value":"08112",
+                "name":"Hualpén"
+            },{
+                "value":"08201",
+                "name":"Lebu"
+            },{
+                "value":"08202",
+                "name":"Arauco"
+            },{
+                "value":"08203",
+                "name":"Cañete"
+            },{
+                "value":"08204",
+                "name":"Contulmo"
+            },{
+                "value":"08205",
+                "name":"Curanilahue"
+            },{
+                "value":"08206",
+                "name":"Los Álamos"
+            },{
+                "value":"08207",
+                "name":"Tirúa"
+            },{
+                "value":"08301",
+                "name":"Los Ángeles"
+            },{
+                "value":"08302",
+                "name":"Antuco"
+            },{
+                "value":"08303",
+                "name":"Cabrero"
+            },{
+                "value":"08304",
+                "name":"Laja"
+            },{
+                "value":"08305",
+                "name":"Mulchén"
+            },{
+                "value":"08306",
+                "name":"Nacimiento"
+            },{
+                "value":"08307",
+                "name":"Negrete"
+            },{
+                "value":"08308",
+                "name":"Quilaco"
+            },{
+                "value":"08309",
+                "name":"Quilleco"
+            },{
+                "value":"08310",
+                "name":"San Rosendo"
+            },{
+                "value":"08311",
+                "name":"Santa Bárbara"
+            },{
+                "value":"08312",
+                "name":"Tucapel"
+            },{
+                "value":"08313",
+                "name":"yumbel"
+            },{
+                "value":"08314",
+                "name":"Alto Biobío"
+            }
+        ]
+    },
+    {
+        "value":9,
+        "name":"La Araucania",
+        "comunas":[
+            {
+                "value":"09101",
+                "name":"Temuco"
+            },{
+                "value":"09102",
+                "name":"Carahue"
+            },{
+                "value":"09103",
+                "name":"Cunco"
+            },{
+                "value":"09104",
+                "name":"Curarrehue"
+            },{
+                "value":"09105",
+                "name":"Freire"
+            },{
+                "value":"09106",
+                "name":"Galvarino"
+            },{
+                "value":"09107",
+                "name":"Gorbea"
+            },{
+                "value":"09108",
+                "name":"Lautaro"
+            },{
+                "value":"09109",
+                "name":"Loncoche"
+            },{
+                "value":"09110",
+                "name":"Melipeuco"
+            },{
+                "value":"09111",
+                "name":"Nueva Imperial"
+            },{
+                "value":"09112",
+                "name":"Padre Las Casas"
+            },{
+                "value":"09113",
+                "name":"Perquenco"
+            },{
+                "value":"09114",
+                "name":"Pitrufquén"
+            },{
+                "value":"09115",
+                "name":"Pucón"
+            },{
+                "value":"09116",
+                "name":"Saavedra"
+            },{
+                "value":"09117",
+                "name":"Teodoro Schmidt"
+            },{
+                "value":"09118",
+                "name":"Toltén"
+            },{
+                "value":"09119",
+                "name":"Vilcún"
+            },{
+                "value":"09120",
+                "name":"Villarrica"
+            },{
+                "value":"09121",
+                "name":"Cholchol"
+            },{
+                "value":"09201",
+                "name":"Angol"
+            },{
+                "value":"09202",
+                "name":"Collipulli"
+            },{
+                "value":"09203",
+                "name":"Curacautín"
+            },{
+                "value":"09204",
+                "name":"Ercilla"
+            },{
+                "value":"09205",
+                "name":"Lonquimay"
+            },{
+                "value":"09206",
+                "name":"Los Sauces"
+            },{
+                "value":"09207",
+                "name":"Lumaco"
+            },{
+                "value":"09208",
+                "name":"Purén"
+            },{
+                "value":"09209",
+                "name":"Renaico"
+            },{
+                "value":"09210",
+                "name":"Traiguén"
+            },{
+                "value":"09211",
+                "name":"Vicotira"
+            }
+        ]
+    },
+    {
+        "value":14,
+        "name":"Los Rios",
+        "comunas":[
+            {
+                "value":"14101",
+                "name":"Valdivia"
+            },{
+                "value":"14102",
+                "name":"Corral"
+            },{
+                "value":"14103",
+                "name":"Lanco"
+            },{
+                "value":"14104",
+                "name":"Los Lagos"
+            },{
+                "value":"14105",
+                "name":"Máfil"
+            },{
+                "value":"14106",
+                "name":"Mariquina"
+            },{
+                "value":"14107",
+                "name":"Paillaco"
+            },{
+                "value":"14108",
+                "name":"Panguipulli"
+            },{
+                "value":"14201",
+                "name":"La Unión"
+            },{
+                "value":"14202",
+                "name":"Futrono"
+            },{
+                "value":"14203",
+                "name":"Lago Ranco"
+            },{
+                "value":"14204",
+                "name":"Río Bueno"
+            }
+        ]
+    },
+    {
+        "value":10,
+        "name":"Los Lagos",
+        "comunas":[
+            {
+                "value":"10101",
+                "name":"Puerto Montt"
+            },{
+                "value":"10102",
+                "name":"Calbuco"
+            },{
+                "value":"10103",
+                "name":"Cochamó"
+            },{
+                "value":"10104",
+                "name":"Fresia"
+            },{
+                "value":"10105",
+                "name":"Frutillar"
+            },{
+                "value":"10106",
+                "name":"Los Muermos"
+            },{
+                "value":"10107",
+                "name":"Llanquihue"
+            },{
+                "value":"10108",
+                "name":"Maullín"
+            },{
+                "value":"10109",
+                "name":"Puerto Varas"
+            },{
+                "value":"10201",
+                "name":"Castro"
+            },{
+                "value":"10202",
+                "name":"Ancud"
+            },{
+                "value":"10203",
+                "name":"Chonchi"
+            },{
+                "value":"10204",
+                "name":"Curaco de Vélez"
+            },{
+                "value":"10205",
+                "name":"Dalcahue"
+            },{
+                "value":"10206",
+                "name":"Puqueldón"
+            },{
+                "value":"10207",
+                "name":"Queilén"
+            },{
+                "value":"10208",
+                "name":"Quellón"
+            },{
+                "value":"10209",
+                "name":"Quemchi"
+            },{
+                "value":"10210",
+                "name":"Quinchao"
+            },{
+                "value":"10301",
+                "name":"Osorno"
+            },{
+                "value":"10302",
+                "name":"Puerto Octay"
+            },{
+                "value":"10303",
+                "name":"Purranque"
+            },{
+                "value":"10304",
+                "name":"Puyehue"
+            },{
+                "value":"10305",
+                "name":"Río Negro"
+            },{
+                "value":"10306",
+                "name":"San Juan de la Costa"
+            },{
+                "value":"10307",
+                "name":"San Pablo"
+            },{
+                "value":"10401",
+                "name":"Chaitén"
+            },{
+                "value":"10402",
+                "name":"Futaleufú"
+            },{
+                "value":"10403",
+                "name":"Hualaiuhué"
+            },{
+                "value":"10404",
+                "name":"Palena"
+            }
+        ]
+    },
+    {
+        "value":11,
+        "name":"Aysén del General Carlos Ibañez",
+        "comunas":[
+            {
+                "value":"11101",
+                "name":"Couhaique"
+            },{
+                "value":"11102",
+                "name":"Lago Verde"
+            },{
+                "value":"11201",
+                "name":"Aysén"
+            },{
+                "value":"11202",
+                "name":"Cisnes"
+            },{
+                "value":"11203",
+                "name":"Guateicas"
+            },{
+                "value":"11301",
+                "name":"Cochrane"
+            },{
+                "value":"11302",
+                "name":"O'higgins"
+            },{
+                "value":"11303",
+                "name":"Tortel"
+            },{
+                "value":"11401",
+                "name":"Chile Chico"
+            },{
+                "value":"11402",
+                "name":"Río Ibañez"
+            }
+        ]
+    },
+    {
+        "value":12,
+        "name":"Magallanes y de la Antártica",
+        "comunas":[
+            {
+                "value":"12101",
+                "name":"Punta Arenas"
+            },{
+                "value":"12102",
+                "name":"Laguna Blanca"
+            },{
+                "value":"12103",
+                "name":"Río Verde"
+            },{
+                "value":"12104",
+                "name":"San Gregorio"
+            },{
+                "value":"12201",
+                "name":"Cabo de Hornos"
+            },{
+                "value":"12202",
+                "name":"Antártica"
+            },{
+                "value":"12301",
+                "name":"Porvenir"
+            },{
+                "value":"12302",
+                "name":"Primavera"
+            },{
+                "value":"12303",
+                "name":"Timaukel"
+            },{
+                "value":"12401",
+                "name":"Natales"
+            },{
+                "value":"12402",
+                "name":"Torres del Paine"
+            }
+        ]
+    }
+]
